@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    中国共产党成立
+                    中国共产党成立100周年
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
