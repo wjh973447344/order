@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    顾传洋是猪
+                    中国共产党成立
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
